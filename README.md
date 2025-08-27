@@ -37,5 +37,14 @@ DatCure fixes this issue by allowing you to filter by tags so you can hone in on
 
 ----------------------------------------------------
 
+<details>
+<summary>Selection Behavior.</summary>
+
+<img width="4720" height="2800" alt="DatCure_04" src="https://github.com/user-attachments/assets/18c029c1-3617-48fc-9125-f4003bf80ffe" />
+
+</details>
+
+----------------------------------------------------
+
 
 
