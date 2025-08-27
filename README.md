@@ -20,6 +20,43 @@ DatCure fixes this issue by allowing you to filter by tags so you can hone in on
 ----------------------------------------------------
 
 <details>
+<summary>How to install and run.</summary>
+
+1.  **Create & Activate the Virtual Environment**
+
+    First, run this command in your terminal to create the environment folder:
+    ```bash
+    python -m venv .venv
+    ```
+    Next, you need to activate it. The command depends on your operating system:
+
+    * **On Windows:**
+        ```powershell
+        .venv\Scripts\activate
+        ```
+    * **On macOS / Linux:**
+        ```bash
+        source .venv/bin/activate
+        ```
+
+2.  **Install Dependencies**
+
+    With your virtual environment active, install PyQt5:
+    ```bash
+    pip install PyQt5
+    ```
+
+3.  **Run the Application**
+
+    You're all set. Launch the program with:
+    ```bash
+    python datcure.py
+
+</details>
+
+----------------------------------------------------
+
+<details>
 <summary>Loading a directory into the Gallery.</summary>
 
 <img width="4720" height="2800" alt="DatCure_02" src="https://github.com/user-attachments/assets/0f950169-2936-4e6e-a2f3-915b1b5c3275" />
@@ -46,5 +83,22 @@ DatCure fixes this issue by allowing you to filter by tags so you can hone in on
 
 ----------------------------------------------------
 
+<details>
+<summary>Filtering Behavior.</summary>
+
+<img width="4720" height="2800" alt="DatCure_05" src="https://github.com/user-attachments/assets/c7912e99-c7f0-4231-9fa2-7927e2e593a5" />
+
+</details>
+
+----------------------------------------------------
+
+<details>
+<summary>Exporting Options.</summary>
+
+<img width="4720" height="2800" alt="DatCure_06" src="https://github.com/user-attachments/assets/40462404-7b8f-4ec5-9112-4a3a98e691b8" />
+
+</details>
+
+----------------------------------------------------
 
 
