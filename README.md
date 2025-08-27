@@ -6,13 +6,15 @@ DatCure is "that cure" to my data curation woes. Right now it is only an older t
 ----------------------------------------------------
 
 <details>
-<summary>More descrtiption here.</summary>
+<summary>More description here.</summary>
 
-This program takes a directory of images and displays them while cataloging comma-separated tags in any associated .txt files with the same name. If a .txt file doesn't exist for the image, one will be created in the directory at the time of adding a tag.
+This program takes a directory of images and displays them while cataloging comma-separated tags in any associated .txt files with the same name. 
+
+If a .txt file doesn't exist for the image, one will be created in the directory at the time of adding a tag.
 
 One of the biggest issues with balancing datasets for AI is that you have to balance several different dimensions (like color, size, number, camera angle, lighting, style, race, class, outfit, materials, or whatever you need for your use-case). The problem is that you can't sort your dataset in any way in file explorer that allows you to see everything and quickly work with a particular dimension. 
 
-DatCure fixes this issue by allowing you to filter by tags so you can hone in on the particular dimenson of the dataset without having to hunt through a fragmented mess or having to bloat up all of your concept folders with duplicated that lead to secret overfitting. 
+DatCure fixes this issue by allowing you to filter by tags so you can hone in on the particular dimension of the dataset without having to hunt through a fragmented mess or having to bloat up all of your concept folders with duplicates that lead to secret overfitting. 
 
 </details>
 
